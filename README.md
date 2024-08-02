@@ -56,7 +56,7 @@
     <div class="container">
         <section class="portfolio-item">
             <h2>About Me</h2>
-            <p>Hello! My name is John Doe. I am a passionate student interested in web development.</p>
+            <p>Hello! My name is Dasari sateesh. I am a passionate student interested in web development.</p>
         </section>
         <section class="portfolio-item">
             <h2>Projects</h2>
@@ -73,8 +73,8 @@
         </section>
         <section class="portfolio-item">
             <h2>Contact</h2>
-            <p>Email: john.doe@example.com</p>
-            <p>Phone: +1234567890</p>
+            <p>Email: dasarisateesh56@gmail.com</p>
+            <p>Phone: 7207059613</p>
         </section>
     </div>
     <footer>
